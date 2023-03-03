@@ -12,7 +12,7 @@ To run application adhere the following steps:
 - run container with command: "docker run <image_name>" (ignore quotes)
 - open in your browser http://0.0.0.0:8000/api/v1/goods 
 
-step 2 can be missed if run application without containerization just with a command in terminal of porject: python manage.py runserver 
+step 2, 5, 6 can be missed if run application without containerization just with a command in terminal of porject: python manage.py runserver 
 
 ### Author
 
