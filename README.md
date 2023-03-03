@@ -1,7 +1,7 @@
-#wildberries_parsing
+# wildberries_parsing
 app for parsing wildberries items
 
-##Setup
+## Setup
 
 To run application adhere the following steps:
 - clone this repository to your local machine
@@ -14,6 +14,6 @@ To run application adhere the following steps:
 
 step 2 can be missed if run application without containerization just with a command in terminal of porject: python manage.py runserver 
 
-###Author
+### Author
 
 Roslik Dmitry
